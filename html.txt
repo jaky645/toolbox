@@ -1,0 +1,486 @@
+<p>
+    <span style="font-size: 13px;font-family: Calibri, sans-serif">Request for Comment (</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">$[serviceImpact]}</span><span style="font-size: 11px;font-family: Calibri, sans-serif">&nbsp;</span><span style="font-size: 13px;font-family: Calibri, sans-serif">) (</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">$[platform]}</span><span style="font-size: 11px;font-family: Calibri, sans-serif">&nbsp;</span><span style="font-size: 13px;font-family: Calibri, sans-serif">):&nbsp;</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">$[affectedLocation]}</span><span style="font-size: 11px;font-family: Calibri, sans-serif">&nbsp;</span><span style="font-size: 13px;font-family: Calibri, sans-serif">&nbsp;-&nbsp;</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">$[changePurpose]}</span><span style="font-size: 13px;font-family: Calibri, sans-serif">&nbsp;(</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">$[requestNo]}.</span><span style="font-size: 13px;font-family: Calibri, sans-serif">)</span>
+</p>
+
+
+
+
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Please do not reply to this system-generated email.</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">CRN</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[requestNo]}.</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;(Click on the CR No. to view more information)</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Status</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[status]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Comment Sought from the Support Team</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Schedule Confirmed email will be sent out if no comment is received by 12:00 noon&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[dueDate]}</span><span style="font-size:11px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">.</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Planned Change Period</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[plannedStartDateTime]}&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">to</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;$[plannedEndDateTime]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Change Purpose</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[changePurpose]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Platform</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&lt;$[platform]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Change Category</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[changeCategory]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Impact Level</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[impactLevel]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Affected Application (Project/Application registered at HO IT&amp;HI Call Centre Contact Information)</span></strong>
+</p>
+<table>
+    <tbody>
+        <tr style=";height:17px" class="firstRow">
+            <td width="168" valign="top" style="border: 1px solid windowtext; background: rgb(217, 217, 217); padding: 0px 7px;">
+                <p style="text-align:left">
+                    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Hostname</span></strong>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0px 7px;">
+                <p style="text-align:left">
+                    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Affected &nbsp; Application</span></strong>
+                </p>
+            </td>
+        </tr>
+        <tr style=";height:17px">
+            <td width="168" valign="top" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+        </tr>
+        <tr style=";height:17px">
+            <td width="168" valign="top" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+        </tr>
+        <tr style=";height:17px">
+            <td width="168" valign="top" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[</span><span style="font-size: 13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">affectedApplication</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Fallback Plan</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:24px;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">1.</span><span style="font-size: 9px;font-family:&#39;Times New Roman&#39;,serif;color:red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">XXX</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:24px;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">2.</span><span style="font-size: 9px;font-family:&#39;Times New Roman&#39;,serif;color:red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">XXX</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[plan</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black"></span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Contact Point</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">For any enquiries, please contact&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[requesterName}</span><span style="font-size:16px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">at&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[requesterPhoneNo}.</span><span style="font-size:11px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:16px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">or&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[requesterTeam]}&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Primary Support mobile at &lt;Requester Team Support Phone no.&gt;.</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Best Regards,</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[requesterName]}</span>
+</p>
+<p style="margin: 5px 0px; text-align: left;">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">$[requesterPhoneNo]}.</span>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Infrastructure Change Request to be Approved (</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red"><span style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px">{[request</span></span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red"><span style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing:0px">No]}.</span></span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black"><span style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;float:none;word-spacing:0px">) from&nbsp;</span></span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red"><span style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;word-spacing: 0px">{[r</span></span><span style="color:red">equesterName</span><span style="font-size:13px;color:red">]}</span><span style="color:red">&nbsp;&amp;&nbsp;</span><span style="font-size: 13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[t</span><span style="color:red">itle</span><span style="font-size:13px;color:red">]}</span><span style="color:red">, (</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[</span><span style="color:red">corpId</span><span style="font-size: 13px;color:red">]}</span><span style="color:red">)</span>
+</p>
+
+
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Please do not reply to this system-generated email.</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">CRN</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[requestNo</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">]}.</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;(Click on the CR No. to view more information)</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Approval Status</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[a</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">pprovalStatusChain]}</span><span style="font-size:11px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:16px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">(Last updated:</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;{[lastUpdatedTime]}</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">)</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Your Action</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Approve / Reject</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Requester</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[r</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">equesterName]} &amp; {[title]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Planned Change Period</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[p</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">lannedStartDateTime]}&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">to</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;{[plannedEndDateTime]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Change Purpose</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[c</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">hangePurpose]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Platform</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[p</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">latform]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Change Category</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[c</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">hangeCategory]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Impact Level</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{impactLevel</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Is Urgent CR</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[isUrgentCr</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Affected Application (Project/Application registered at HO IT&amp;HI Call Centre Contact Information)</span></strong>
+</p>
+<table>
+    <tbody>
+        <tr style=";height:17px" class="firstRow">
+            <td width="168" valign="top" style="border: 1px solid windowtext; background: rgb(217, 217, 217); padding: 0px 7px;">
+                <p style="text-align:left">
+                    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Hostname</span></strong>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; background: rgb(217, 217, 217); padding: 0px 7px;">
+                <p style="text-align:left">
+                    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Affected &nbsp; Application</span></strong>
+                </p>
+            </td>
+        </tr>
+        <tr style=";height:17px">
+            <td width="168" valign="top" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+        </tr>
+        <tr style=";height:17px">
+            <td width="168" valign="top" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+        </tr>
+        <tr style=";height:17px">
+            <td width="168" valign="top" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+            <td width="168" valign="top" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;">
+                <p style="text-align:left">
+                    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">xxx</span>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[affectedApplication]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Duration of User Impact</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[d</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">urationOfUserImpact]}</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;hour(s)</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Fallback Plan</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:24px;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">1.</span><span style="font-size: 9px;font-family:&#39;Times New Roman&#39;,serif;color:red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">XXX</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:24px;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">2.</span><span style="font-size: 9px;font-family:&#39;Times New Roman&#39;,serif;color:red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">XXX</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[plan]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Duration of Fallback</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[d</span><span style="font-size: 13px;font-family:&#39;Arial&#39;,sans-serif;color:red">urationOfFallback]}</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;minute(s)</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">CR Submission Date</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[cRsu</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">bmissionDate]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Is Late Submission</span></strong>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[isL</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">ateSummission]}</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;</span>
+</p>
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left:0;text-align:left">
+    <strong><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Remarks</span></strong>
+</p>
+<p style="margin: 5px 0px; text-align: left;">
+    <span style="font-size:13px;font-family:&#39;Calibri&#39;,sans-serif;color:red">{[remarks]}</span>
+</p>
+
+
+
+<p style="margin: 5px 0px;">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">Change Request Status Updated for (</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[requestNo]}.</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:black">)</span>
+</p>
+
+
+
+<p style="margin-top:5px;margin-right:0;margin-bottom:5px;margin-left: 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Please do not reply to this system-generated email.</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">CRN</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[requesNo]}.</span><span style="font-size: 11px;font-family: Arial, sans-serif">&nbsp;</span><span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;(Click on the CR No. to view more information)</span>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Status</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[status]}&nbsp;</span><span style="font-size: 13px;font-family: Arial, sans-serif">by</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;{[lastUpdateUserName]}&nbsp;&amp;&nbsp;{[title]}</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Action Log</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[actionLog]}</span>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Planned Change Period</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[plannedStartDateTime]}&nbsp;</span><span style="font-size: 13px;font-family: Arial, sans-serif">to</span><span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">&nbsp;{[plannedEndDateTime]}</span>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Change Purpose</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[changePurpose]}</span>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Platform</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[platform]}</span>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Change Category</span></strong>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[changeCategory]}</span>
+</p>
+<p style="margin: 5px 0">
+    <span style="font-size: 13px;font-family: Arial, sans-serif">&nbsp;</span>
+</p>
+<p style="margin: 5px 0">
+    <strong><span style="font-size: 13px;font-family: Arial, sans-serif">Impact Level</span></strong>
+</p>
+<p>
+    <span style="font-size:13px;font-family:&#39;Arial&#39;,sans-serif;color:red">{[impactLevel]}</span>
+</p>
